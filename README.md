@@ -1,6 +1,6 @@
 # Technology Term Extractor Web App Using Streamlit and Deployed with Docker on Azure
 
-The web app is here: https://tech-detector.azurewebsites.net/
+The web app is here: https://tech-detector.azurewebsites.net/ (deleted to stop billing)
 
 The app can help you extract distinct technology terms from text. There are 3 options.
 
